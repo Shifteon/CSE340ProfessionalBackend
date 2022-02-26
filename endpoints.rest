@@ -1,0 +1,21 @@
+GET http://localhost:8080/professional
+# application/json
+# "nameLink": {
+#    "professionalName": "string",
+#    "base64Image": "string/base64Image",
+#    "nameLink": {
+#        "firstName": "string",
+#        "url": "string"
+#    },
+#    "primaryDescription": "string",
+#    "workDescription1": "string",
+#    "workDescription2": "string",
+#    "linkTitleText": "string",
+#    "linkedInLink": {
+#        "text": "string",
+#        "link": "string"
+#    },
+#    "githubLink": {
+#        "text": "string",
+#        "link": "string"
+#    }
